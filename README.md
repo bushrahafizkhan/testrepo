@@ -1,4 +1,7 @@
 # thebakerywitch
+
 about the business 
-##editingthefile
+
+editingthefile
+
 Its a file on business plans in this repository. 
